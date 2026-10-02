@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+sqlalchemy
+mysql-connector-python
+snowflake-connector-python
+snowflake-sqlalchemy
+scikit-learn
+xgboost
+
